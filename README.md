@@ -1,4 +1,4 @@
-# Adelaide-Temperatue
+# Adelaide-Temperature
 Repository to download and analyse weather data from the Bureau of Meterology
 
 Data is taken from the Adelaide Airport weather station
